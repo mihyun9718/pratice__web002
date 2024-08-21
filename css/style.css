@@ -67,15 +67,15 @@
 }
 
 .main_visual .itm01 {
-    background: url(/images/visual01.jpg) no-repeat center center/cover;
+    background: url(../images/visual01.jpg) no-repeat center center/cover;
 }
 
 .main_visual .itm02 {
-    background: url(/images/visual02.jpg) no-repeat center center/cover;
+    background: url(../images/visual02.jpg) no-repeat center center/cover;
 }
 
 .main_visual .itm03 {
-    background: url(/images/visual03.jpg) no-repeat center center/cover;
+    background: url(../images/visual03.jpg) no-repeat center center/cover;
 }
 
 .main_content {
